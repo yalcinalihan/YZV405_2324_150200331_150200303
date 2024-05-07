@@ -22,3 +22,14 @@ Input &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :  gul  zirve oncesi sunlari so
 Correct&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :  gül  zirve öncesi şunları söyledi :
 \
 Predicted&nbsp; :  gül  zirve öncesi şunları söyledi :
+
+# References
+[1] K. P. Scannell, “Statistical unicodification of African languages,” Lang. Resour. Eval., vol. 45, no. 3, p.
+375–386, sep 2011. [Online]. Available: https://doi.org/10.1007/s10579-011-9150-3
+\
+[2] G. Tür, D. Hakkani Tür, and K. Oflazer, “A statistical information extraction system for Turkish,” Natural
+Language Engineering, vol. 9, no. 2, p. 181–210, 2003.
+\
+[3] K. Adali and G. Eryigit, “Vowel and diacritic restoration for social media texts,” in ˇ Proceedings of the
+5th Workshop on Language Analysis for Social Media (LASM), A. Farzindar, D. Inkpen, M. Gamon, and
+M. Nagarajan, Eds. Gothenburg, Sweden: Association for Comp
