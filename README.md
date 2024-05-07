@@ -17,3 +17,8 @@ The first cell of the notebook is about connecting to Google Drive because we tr
 # Result
 Here is an example about what is our input, what should the output be, and what is the output of our model:
 
+Input &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :  gul  zirve oncesi sunlari soyledi :
+\
+Correct&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :  gül  zirve öncesi şunları söyledi :
+\
+Predicted&nbsp; :  gül  zirve öncesi şunları söyledi :
